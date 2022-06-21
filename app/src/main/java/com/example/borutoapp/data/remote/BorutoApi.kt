@@ -16,5 +16,4 @@ interface BorutoApi {
         @Query("name") name: String
     ): ApiResponse
 
-
 }

@@ -12,6 +12,7 @@ object Constants {
     const val LAST_ON_BOARDING_PAGE = 2
     const val PREFERENCES_NAME = "boruto_preferences"
     const val PREFERENCES_KEY = "on_boarding_completed"
+    const val ITEM_PER_PAGE = 3
 
 
 }
